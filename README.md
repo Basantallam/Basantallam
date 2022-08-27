@@ -8,11 +8,12 @@ I'm a Computer Science and Engineering Senior Student. Competitive Programmer, F
 - 🌱 I’m currently learning Software Product Management
 - 🤔 I’m looking for help with finding a Software Engineer role
 - 📫 How to reach me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/basant-allam/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+            <div id="badges">
+              <a href="https://www.linkedin.com/in/basant-allam/">
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+              </a>
+            </div>
+
 
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basantallam&theme=dark&background=000000)
