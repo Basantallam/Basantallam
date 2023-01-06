@@ -15,6 +15,8 @@ I'm a Computer Science and Engineering Senior Student. Competitive Programmer, F
             </div>
 
 
+
+
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basantallam&theme=dark&background=000000)
   
@@ -48,7 +50,9 @@ I'm a Computer Science and Engineering Senior Student. Competitive Programmer, F
  <img src="https://user-images.githubusercontent.com/30272808/187034218-974f5ef6-bc3f-4bd8-936a-6a3010aa2d5a.jpg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
  <img src="https://user-images.githubusercontent.com/30272808/187036766-6704afc0-fb27-4641-83dd-ff683d311d58.png" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
-
+ <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
+            
  ## Experienced in Operating Systems:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
