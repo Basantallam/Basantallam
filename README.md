@@ -6,7 +6,7 @@ I'm a Computer Science and Engineering Senior Student. Competitive Programmer, F
 
 
 - 🌱 I’m currently learning Software Product Management
-- 🤔 I’m looking for help with finding a Software Engineer role
+- 🤔 I’m looking for help with finding a Software Engineering Full-time role
 - 📫 How to reach me:
             <div id="badges">
               <a href="https://www.linkedin.com/in/basant-allam/">
